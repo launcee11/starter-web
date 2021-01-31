@@ -15,6 +15,8 @@ Sample website with plenty of files for demos and tutorials
 
 ## How to Contribute
 
+Pleas fork this repository and then issue pull request for review.
+
 ### Copyright
 
 2020 Git Tutorial
