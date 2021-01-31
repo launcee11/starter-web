@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Launce Tulabing Associate Software Engineer
 
 # THANKS
 
